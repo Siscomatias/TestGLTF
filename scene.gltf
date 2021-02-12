@@ -749,16 +749,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Edificio_baseColor.png"
+      "uri": "Edificio_baseColor.png"
     },
     {
-      "uri": "textures/Edificio_metallicRoughness.png"
+      "uri": "Edificio_metallicRoughness.png"
     },
     {
-      "uri": "textures/Edificio_normal.png"
+      "uri": "Edificio_normal.png"
     },
     {
-      "uri": "textures/Material_62_baseColor.jpeg"
+      "uri": "Material_62_baseColor.jpeg"
     }
   ],
   "materials": [
